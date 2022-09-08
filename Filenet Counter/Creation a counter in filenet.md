@@ -25,36 +25,36 @@
 
 1.1 Browse to property templates folder and click new 
 
-
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-28-41-l7syvuln.png?raw=true)
 
 1.2 Commplete the name for the properties 
 
-![](capture-d-e-cran-2022-09-08-a--12-14-17-l7syxvn6.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--12-14-17-l7syxvn6.png?raw=true)
 
 1.3 Select the data type String 
 
-![](capture-d-e-cran-2022-09-08-a--12-14-24-l7syyx4q.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--12-14-24-l7syyx4q.png?raw=true)
 
 
 1.4 Click next
 
-![](capture-d-e-cran-2022-09-08-a--13-22-19-l7sysav8.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-22-19-l7sysav8.png?raw=true)
 
 **** 
  
  
 1.5 Only for CounterName select set other attributes: 
 
-![](capture-d-e-cran-2022-09-08-a--12-14-33-l7sz1l80.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--12-14-33-l7sz1l80.png?raw=true)
 
 1.6 Click next 
 
-![](capture-d-e-cran-2022-09-08-a--13-23-23-l7szanef.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-23-23-l7szanef.png?raw=true)
 ****
 
 1.7 Click Finish
 
-![](capture-d-e-cran-2022-09-08-a--13-23-30-l7szazb5.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-23-30-l7szazb5.png?raw=true)
 
 
 2 Follow the same procedure of the remaining propreties:
@@ -62,55 +62,55 @@
 - CounterProperty is string property
 - CounterPrefix is string property
 - Count is Integer property
-   ![](image-l7syrj9n.png)
+   ![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/image-l7syrj9n.png?raw=true)
 
 3. Create Custom Class
 
 3.1 Locate Custom Class, click actions and new class
 
-![](capture-d-e-cran-2022-09-08-a--13-47-40-l7szm1i6.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-47-40-l7szm1i6.png?raw=true)
 
 3.2 Complete the name, click next on the remaining screen, finish and open
 
-![](capture-d-e-cran-2022-09-08-a--13-50-44-l7szo0sw.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-50-44-l7szo0sw.png?raw=true)
 
-![](capture-d-e-cran-2022-09-08-a--13-50-54-l7szo3po.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-50-54-l7szo3po.png?raw=true)
 
-![](capture-d-e-cran-2022-09-08-a--13-51-00-l7szobxq.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-51-00-l7szobxq.png?raw=true)
 
 3.3 Link properties to the custom class and save it.
 
-![](capture-d-e-cran-2022-09-08-a--13-52-54-l7sztd0n.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-52-54-l7sztd0n.png?raw=true)
 
-![](capture-d-e-cran-2022-09-08-a--13-53-02-l7sztgjc.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-53-02-l7sztgjc.png?raw=true)
 
-![](capture-d-e-cran-2022-09-08-a--13-53-20-l7sztnkp.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-53-20-l7sztnkp.png?raw=true)
 
 3.4 the result should be like this:
 
-![](capture-d-e-cran-2022-09-08-a--13-53-36-l7sztyqt.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-53-36-l7sztyqt.png?raw=true)
 
 
 ### Create event Action 
 
 
-![](capture-d-e-cran-2022-09-08-a--13-56-47-l7szvq0r.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-56-47-l7szvq0r.png?raw=true)
 
 Enter Counter as name and click next
 
-![](capture-d-e-cran-2022-09-08-a--13-57-38-l7t019vz.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-57-38-l7t019vz.png?raw=true)
 
 Select Event action
 
-![](capture-d-e-cran-2022-09-08-a--13-57-50-l7t021qh.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-57-50-l7t021qh.png)
 
 Select Javascript
 
-![](capture-d-e-cran-2022-09-08-a--13-57-56-l7t02rax.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-57-56-l7t02rax.png?raw=true)
 
 Insert the code below in the box.
 
-![](capture-d-e-cran-2022-09-08-a--13-58-00-l7t033eq.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-58-00-l7t033eq.png?raw=true)
 
 
 Insert the following code in the section.
@@ -232,7 +232,7 @@ Insert the following code in the section.
     }
     
 
-![](image-l7t051x1.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/image-l7t051x1.png?raw=true)
 
 
 ### Create Config Folder
@@ -241,41 +241,41 @@ Create folder config at the root  folder
 
 Click on the Root folder , Actions and new Folder
 
-![](capture-d-e-cran-2022-09-08-a--14-04-58-l7t06yid.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-04-58-l7t06yid.png?raw=true)
 
 Enter config as name
 
-![](capture-d-e-cran-2022-09-08-a--14-05-37-l7t073y8.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-05-37-l7t073y8.png?raw=true)
 
 Next
 
-![](capture-d-e-cran-2022-09-08-a--14-05-41-l7t0777c.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-05-41-l7t0777c.png?raw=true)
 
 Finish
 
-![](capture-d-e-cran-2022-09-08-a--14-05-45-l7t079rs.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-05-45-l7t079rs.png?raw=true)
 
 Tips Hide the folder config for lambda user : 
 
-![](capture-d-e-cran-2022-09-08-a--14-08-05-l7t0azbc.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-08-05-l7t0azbc.png?raw=true)
 
 
 ### Create custom object related to the target class folder or document class folder
 
 Lets assume that I have already a document class DAC Email with one property 
 
-![](image-l7t0dcvh.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/image-l7t0dcvh.png?raw=true)
 
 
 1. Create an instance of the custom class counter to configure the counter for the DAC Email Class with the sympbolic name DACEmail
 
 In the folder config created in the previous step, create a custom class instance of Counter.
 
-![](capture-d-e-cran-2022-09-08-a--14-11-54-l7t0hk5t.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-11-54-l7t0hk5t.png?raw=true)
 
 Enter the Containement name as the Sympbolic Name and select the class as Counter
 
-![](capture-d-e-cran-2022-09-08-a--14-15-33-l7t0l1dz.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-15-33-l7t0l1dz.png?raw=true)
 
 Complete the values: 
 
@@ -284,15 +284,15 @@ Complete the values:
 - CounterName is the Sympbolic Name of Dac Email
 - Count is the current count should be at 0 by default.
  
-![](capture-d-e-cran-2022-09-08-a--14-19-21-l7t0pcvy.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-19-21-l7t0pcvy.png?raw=true)
 
 Click Next
 
-![](capture-d-e-cran-2022-09-08-a--14-19-27-l7t0pkjs.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-19-27-l7t0pkjs.png?raw=true)
 
 Click Finish
 
-![](capture-d-e-cran-2022-09-08-a--14-19-38-l7t0pn5m.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-19-38-l7t0pn5m.png?raw=true)
 
 
 ### Create Subscription 
@@ -301,30 +301,30 @@ Create Subscription to trigger a counter for the DAC Email Class
 
 Select DAC Email Class and click create new subscription
 
-![](image-l7t0wkxl.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/image-l7t0wkxl.png?raw=true)
 
 Complete the name
 
-![](capture-d-e-cran-2022-09-08-a--14-26-19-l7t0yhfn.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-26-19-l7t0yhfn.png?raw=true)
 
 Select the scope
 
-![](capture-d-e-cran-2022-09-08-a--14-26-25-l7t0yk8t.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-26-25-l7t0yk8t.png?raw=true)
 
 Select on which event the counter is trigger, in my case the creation
 
-![](capture-d-e-cran-2022-09-08-a--14-26-31-l7t0zed0.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-26-31-l7t0zed0.png?raw=true)
 
 Select the event action created previously
 
-![](capture-d-e-cran-2022-09-08-a--14-26-44-l7t0zlak.png) 
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-26-44-l7t0zlak.png?raw=true)
 
 Click next
 
-![](capture-d-e-cran-2022-09-08-a--14-26-49-l7t0zlal.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-26-49-l7t0zlal.png?raw=true)
 
 Click Finish
 
-![](capture-d-e-cran-2022-09-08-a--14-26-54-l7t0zlam.png)
+![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--14-26-54-l7t0zlam.png?raw=true)
 
 ### Test it
