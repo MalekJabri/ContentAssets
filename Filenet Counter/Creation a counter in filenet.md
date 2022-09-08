@@ -3,7 +3,7 @@ title: Creation a counter in filenet
 tags: []
 ---
 
-# How to an incremental counter in Filenet
+# Incremental counter in Filenet
 
 ## Artifact needed:
 
