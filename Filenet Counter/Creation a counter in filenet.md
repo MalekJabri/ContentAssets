@@ -25,7 +25,7 @@
 
 1.1 Browse to property templates folder and click new 
 
-![](capture-d-e-cran-2022-09-08-a--13-28-41-l7syvuln.png)
+
 
 1.2 Commplete the name for the properties 
 
