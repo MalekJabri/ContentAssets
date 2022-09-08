@@ -1,8 +1,3 @@
----
-title: Creation a counter in filenet
-tags: []
----
-
 # Incremental counter in Filenet
 
 ## Artifact needed:
