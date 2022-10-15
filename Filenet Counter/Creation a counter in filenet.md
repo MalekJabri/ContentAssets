@@ -25,7 +25,7 @@
 
 1.1 Browse to property templates folder and click new 
 
-![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-28-41-l7syvuln.png?raw=true)
+![](./Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--13-28-41-l7syvuln.png?raw=true)
 
 1.2 Commplete the name for the properties 
 
