@@ -45,7 +45,7 @@
  
 1.5 Only for CounterName select set other attributes: 
 
-![](https://github.com/MalekJabri/ContentAssets/blob/main/Filenet%20Counter/Creation%20a%20counter%20in%20filenet_assets/attachments/capture-d-e-cran-2022-09-08-a--12-14-33-l7sz1l80.png?raw=true)
+![](./attachments/capture-d-e-cran-2022-09-08-a--12-14-33-l7sz1l80.png?raw=true)
 
 1.6 Click next 
 
